@@ -1,0 +1,10 @@
+1. versionamento de c¢digo Ç uma forma de resolver e organizar c¢digos entre a sua equipe de desenvolvimento 
+2. Git: permite fazer commits, criar branchs, pegar outros reposit¢rios git e fazer git push ao Github; Github: cria reposit¢rios para a organizaá∆o de arquivos vindos do git push e recebe commits vindos do git 
+3. git add permite selecionar arquivos para o commit, ex: git add . (seleciona todos os arquivos da pasta escolhida); git commit salva e atualiza os arquivos com um coment†rio, ex: git commit -m "primeiro commit"; git push envia os arquivos para o reposit¢rio conectado do github, ex: git push origin master 
+4. s∆o "pastas"que tem como importÉncia organizar arquivos e pastas de certos t¢picos, para que n∆o haja confus∆o 
+5. conflito Ç quando h† um erro dentro do arquivo e pode ser resolvido modificando a parte onde deu o conflito 
+6. representa um conflito e para resolver corretamente Ç preciso modificar ou apagar a parte "===="  
+11. permite verificar arquivos que podem ir para o commit e mudanáas tambÇm 
+12. git config user.name "nome de usuario"; git config  user.email "email do usuario" 
+16. Ç um arquivo de texto padr∆o para o github, uutilizado para explicar o reposit¢rio 
+18. permite ver os registros de commits feitos 
